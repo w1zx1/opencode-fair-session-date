@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "fair-session-date",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "description": "OpenCode Desktop GUI plugin: Home groups sessions by the date of their last real message instead of a later view or open timestamp.",
